@@ -1,0 +1,17 @@
+# Artifact Hub package metadata file
+version: 3.18.0
+name: tekton
+category: integration-delivery
+displayName: Tekton
+createdAt: "2023-12-31T23:59:59.123Z"
+description: A short description of the package
+keywords: # (optional)
+  - A list of keywords about this package
+  - Using one or more categories names as keywords will improve package visibility
+links: # (optional)
+  - name: Title of the link (required for each link)
+    url: URL of the link (required for each link)
+install: | # (optional)
+  Brief install instructions in markdown format
+
+  Content added here will be displayed when the INSTALL button on the package details page is clicked.
