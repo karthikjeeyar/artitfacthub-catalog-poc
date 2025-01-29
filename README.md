@@ -19,9 +19,12 @@ To add backstage plugins in the catalog:
 - click on the profile icon on the top right and go to the control panel to add a new repository
 
 - Choose the kind as Backstage plugins and fill the details as shown below
-  [!image](./images/add-backstage-plugin.png)
+
+  ![add-repository](https://github.com/karthikjeeyar/artitfacthub-catalog-poc/blob/main/images/add-backstage-plugin.png)
+
 - After adding the repository, run `make start_tracker` command to install the plugins into artifacthub.
 - You can now browse the packages using the search bar
-  [!image](./images/searchbar.png)
 
-  [!image](./images/tekton.png)
+  ![searchbar](./images/searchbar.png)
+
+  ![details](./images/tekton.png)
